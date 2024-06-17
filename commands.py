@@ -49,10 +49,10 @@ def portScanner(target,port_range):
 
         print(Fore.MAGENTA + final_results)
         print(Fore.YELLOW + "Target: " + Fore.LIGHTMAGENTA_EX + target)
-        print(Fore.LIGHTYELLOW_EX + "_" * 50)
+        print(Fore.LIGHTYELLOW_EX + "_" * 30)
         for openport in openports:
             print(Fore.LIGHTGREEN_EX + f"[*] Port {openport} is open")
-        print(Fore.LIGHTYELLOW_EX + "_" * 50)
+        print(Fore.LIGHTYELLOW_EX + "_" * 30)
     except KeyboardInterrupt:
         print(Fore.RED + "\n Exiting :(")
     except socket.error:
