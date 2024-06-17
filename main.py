@@ -18,7 +18,8 @@ def main():
         # SCANNER
         portScanner(target, port_range)
     elif choose == 2:
-        print("NETWORK SCAN")
+        print(networkscan)
+
     else:
         print(Fore.RED + "Don't Waste my time...")
         return 0
