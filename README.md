@@ -1,5 +1,5 @@
 
-<img src="https://github.com/gerhash/portScanner/assets/62940515/826dda52-dfaf-4dd3-ac8b-aaf052afdaf3" alt="PortScanner" width="700" height="500">
+<img src="https://github.com/gerhash/portScanner/assets/62940515/826dda52-dfaf-4dd3-ac8b-aaf052afdaf3" alt="PortScanner" width="700" height="300">
 
 # PortScanner
 <img src="https://skillicons.dev/icons?i=py" alt="Skills" />
